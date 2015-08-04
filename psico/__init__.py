@@ -24,7 +24,7 @@ __all__ = [
     'conservation',
     'creating',
     'editing',
-    'electrostatics',
+#    'electrostatics',
     'exporting',
     'fasta',
     'fitting',
